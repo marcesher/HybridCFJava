@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="java/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="java/lib/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/htmlunit-2.7.jar"/>
+	<classpathentry kind="lib" path="java/lib/htmlunit-core-js-2.7.jar"/>
+	<classpathentry kind="lib" path="java/lib/jmock-2.4.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/jmock-junit3-2.4.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/jna.jar"/>
+	<classpathentry kind="lib" path="java/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="java/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/nekohtml-1.9.14.jar"/>
+	<classpathentry kind="lib" path="java/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="java/lib/selenium-java-2.0a4.jar"/>
+	<classpathentry kind="lib" path="java/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="output" path="java/bin"/>
+</classpath>
