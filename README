@@ -1,1 +1,5 @@
 This is a project I use for occasional proof-of-concept work with ColdFusion and Java. It uses Mark Mandel's excellent JavaLoader project for on-the-fly compilation
+
+You can put this project wherever you put your CFML code. The project structure is based on this blog post: http://blog.mxunit.org/2010/05/creating-hybrid-coldfusion-java-project.html
+
+The .project file is already set up based on that post.
